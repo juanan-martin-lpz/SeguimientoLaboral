@@ -1,0 +1,7 @@
+.navbar-item {
+    border: 3px solid transparent;
+}
+
+.navbar-item:hover {
+    border-bottom: 3px solid black;
+}
